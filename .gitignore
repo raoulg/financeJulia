@@ -1,5 +1,8 @@
-/__pychache__
 *.whl
 .DS_Store
 *.gif
 *.mp4
+/fingraph
+*/.ipynb_checkpoints/
+.vscode/
+*.pyc
